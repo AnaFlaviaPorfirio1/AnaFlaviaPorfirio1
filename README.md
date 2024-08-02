@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @AnaFlaviaPorfirio1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Bem vindos ao meu perfil** 😄
 
-<!---
-AnaFlaviaPorfirio1/AnaFlaviaPorfirio1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Meu nome é Ana Flavia
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Já fiz alguns projetos
+
+![](https://media.tenor.com/XVGlXsOw1-AAAAAi/hasher-happy-sticker.gif
+)
+
